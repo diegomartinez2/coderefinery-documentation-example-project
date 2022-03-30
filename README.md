@@ -24,3 +24,6 @@ If you want to install only on your userspace:
       plain : plain txt file
       format1 : output of 'program1'
       obscure_format : Format used by OBSCURE group
+
+## How to contribute to this code
+    Text explaining how to contribute and where to find the sources.
