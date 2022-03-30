@@ -1,4 +1,5 @@
 # Project Temperature analisys code
+This program will take a datafile of temperatures and make some analisys
 ## How to istall
 You install with the command:
     
