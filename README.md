@@ -1,5 +1,6 @@
 # Project Temperature analisys code
-This program will take a datafile of temperatures and make some analisys
+This program will take a spreadsheet datafile of temperatures and make some analisys.
+Prompt the user for the file name, print the columns in the spreadsheet, and print the mean temperature.
 ## How to istall
 You install with the command:
     
